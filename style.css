@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+
+}
+
+h1{
+    margin-bottom: 20px;
+}
+#semaforo{
+    width: 100px;
+    background-color: #222;
+    padding: 20px;
+    margin: 0 auto 20px auto;
+    border-radius: 20px;
+}
