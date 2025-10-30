@@ -20,3 +20,12 @@ h1{
     background-color: #444;
     transition: background-color 0.3s;
 }
+
+#botoes button{
+    margin: 5px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+}
