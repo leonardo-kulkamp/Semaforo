@@ -29,3 +29,15 @@ h1{
     cursor: pointer;
     font-size: 16px;
 }
+ 
+#btnVermelho {background-color: #da0000;}
+#btnAmarelo {background-color: #ffd633;}
+#btnVerde {background-color: #5cd65c;}
+#btnAutomático {background-color: grey;}
+#btnParar {background-color: grey;}
+
+/* Estilo das luzes acesas*/
+
+.acesa.vermelha {background-color: red;}
+.acesa.amarela {background-color: yellow;}
+.acesa.verde {background-color: green;}
