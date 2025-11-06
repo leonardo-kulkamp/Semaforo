@@ -55,5 +55,5 @@ btnAmarelo.onclick = acenderAmarelo;
 btnVerde.onclick = acenderVerde;
 btnAutomático.onclick = modoAutomatico;
 btnParar.onclick = parar;
-
+ / VALEU CARA
 
